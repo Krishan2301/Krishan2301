@@ -24,7 +24,7 @@ I'm diving deeper into:
 
 ## 📫 How to Reach Me
 - 📧 Email: jangirk2307@gmail.com  
-- 🔗 [LinkedIn](www.linkedin.com/in/jangirk2307)
+- 🔗 [LinkedIn](jangirk2307)
 
 ## 😄 Pronouns
 He/Him
