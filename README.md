@@ -7,7 +7,11 @@ Welcome to my GitHub profile! I'm a passionate **Data Analyst** with a keen inte
 - Business Intelligence  
 - Predictive Modeling  
 - Machine Learning (currently learning 📚)  
-- SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), Excel  
+- SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), Excel
+
+  ## 📊 GitHub Stats
+![Repository's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=krishan2301&layout=compact)
+
 
 ## 🌱 Currently Learning
 I'm diving deeper into:
@@ -25,9 +29,6 @@ I'm diving deeper into:
 ## 📫 How to Reach Me
 - 📧 Email: jangirk2307@gmail.com  
 - 🔗 [LinkedIn]: www.linkedin.com/in/jangirk2307
-
-## 📊 GitHub Stats
-![Repository's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=krishan2301&layout=compact)
 
 
 ## 😄 Pronouns
