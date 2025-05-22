@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate **Data Analyst** with a keen inte
 - Machine Learning (currently learning 📚)  
 - SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), Excel
 
-  ## 📊 GitHub Stats
+## 📊 GitHub Stats
 ![Repository's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=krishan2301&layout=compact)
 
 
