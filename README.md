@@ -26,6 +26,10 @@ I'm diving deeper into:
 - 📧 Email: jangirk2307@gmail.com  
 - 🔗 [LinkedIn]: www.linkedin.com/in/jangirk2307
 
+## 📊 GitHub Stats
+![Repository's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=krishan2301&layout=compact)
+
+
 ## 😄 Pronouns
 He/Him
 
